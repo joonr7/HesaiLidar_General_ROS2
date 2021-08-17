@@ -4,7 +4,7 @@
   <name>hesai_lidar</name>
   <version>0.0.1</version>
   <description>The hesai_lidar package includes the driver for the Heisai PandarQT/Pandar64/Pandar40P/Pandar20A/Pandar20B/Pandar40M LiDAR sensor using ROS2</description>
-  <maintainer email="todo@todo.com">Joonyoung Roh</maintainer>
+  <maintainer email="joonr7@gmail.com">Joonyoung Roh</maintainer>
   <maintainer email="kheo1772@gmail.com">Harderthan</maintainer>
   <license>Apache License 2.0</license>
 
